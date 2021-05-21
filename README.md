@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/includestdlibrary/includestdlibrary/main/Purple and Pink Organic and Handcrafted Welcome Message Elementary Back to School Banner.png"/>
 <p align="center"> <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/278/datas/original.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-<h3 align="center">Hello world, I'm <a href="https://www.linkedin.com/notifications/" target="_blank">Ritvik Shukla</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://www.betterteam.com/images/betterteam-motivational-quotes-for-the-workplace-5355x3570-20201119.jpeg?crop=1:1,smart&width=1200&dpr=2" width="300px"> </h3>
+<h3 align="center">Hello world, I'm <a href="https://www.linkedin.com/notifications/" target="_blank">Ritvik Shukla</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
 <h3 align="center">A boy busy in Learning!</h3>
 
 ## About Me
