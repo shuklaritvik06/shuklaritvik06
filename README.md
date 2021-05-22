@@ -31,8 +31,6 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 ## Find me around the web 🌍
 
 - [Instagram](https://www.instagram.com/keen.609/)
-- [LinkedIn](https://www.linkedin.com/in/ritvikshukla/)
-- [Twitter](https://twitter.com/1857Estd)
 - [Codechef](https://www.codechef.com/users/rshukla_2001)
 - [Dev.to](https://dev.to/1857estd)
 - [Stackoverflow](https://stackoverflow.com/users/14782142/ritvik-shukla?tab=profile)
