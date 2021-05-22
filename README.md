@@ -19,14 +19,7 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 
 - ✍️  In my free time, I love to write poems.
 
-- 📚  I love to read books of genre- "Fiction" , "Novel" , "Finance" ,"Poetry" , "Business"
-
-- 📫 How to reach me: [ritvikshukla261@gmail.com](ritvikshukla261@gmail.com)
-
 - 🎧 I love to hear Podcasts
-
-- ⚡ Fun fact: Love Pizza with Ketchup
-
 
 ## Find me around the web 🌍
 
