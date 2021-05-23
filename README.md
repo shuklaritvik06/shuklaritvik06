@@ -17,7 +17,7 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 
 - 😄 Pronouns: **He/Him**
 
-- ✍️  In my free time, I love to write poems.
+- ✍️  In my free time, I love to write poems and short stories.
 
 - 🎧 I love to hear Podcasts
 
