@@ -29,7 +29,7 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 
 ### GitHub Stats
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=includestdlibrary&show_icons=true&count_private=false&theme=radical"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=includestdlibrary&show_icons=true&count_private=true&theme=radical" alt="includestdlibrary">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=includestdlibrary&show_icons=true&count_private=true&theme=radical"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=includestdlibrary&show_icons=true&count_private=true&theme=radical" alt="includestdlibrary">
 
 
 
