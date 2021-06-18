@@ -34,7 +34,7 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 
 
 
-[![Ritvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=includestdlibrary&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/includestdlibrary/github-readme-activity-graph)
+[![Ritvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=includestdlibrary&bg_color=800080&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/includestdlibrary/github-readme-activity-graph)
 
 
 
