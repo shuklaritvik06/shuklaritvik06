@@ -4,7 +4,9 @@
 <h3 align="center">A boy busy in Learning!</h3>
 
 ## About Me
- [![Gmail Badge](https://img.shields.io/badge/-ritvikshukla261@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritvikshukla261@gmail.com)](mailto:ritvikshukla261@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-ritvikshukla261@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritvikshukla261@gmail.com)](mailto:ritvikshukla261@gmail.com) [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source-175x29.png
+)](https://github.com/firstcontributions/open-source-badges)
+
 <br/>
 <a href="https://twitter.com/1857Estd" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/ritvikshukla/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 I am a freshman from Central University Of Rajasthan,India pursuing Computer Science Engineering. I love Open Source. Open source FTW!
