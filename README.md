@@ -14,7 +14,7 @@ I am a freshman from Central University Of Rajasthan,India pursuing Computer Sci
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=includestdlibrary&label=Profile%20views&color=0e75b6&style=flat" alt="includestdlibrary" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently exploring **Open-Source**
 
 - 😄 Pronouns: **He/Him**
 
