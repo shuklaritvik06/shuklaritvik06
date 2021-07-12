@@ -1,4 +1,4 @@
-<p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
+<p align ="center" " margin-bottom="10px"><img  src="https://github.com/shuklaritvik06/shuklaritvik06/blob/main/Purple%20and%20Blue%20Modern%20Swiss%20Safety%20and%20Direction%20General%20Health%20Banner.png" width ="100%"></p>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Bonjour+tout+le+monde+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B"></div>
 <h3 align="center">A boy busy in Learning!</h3>
