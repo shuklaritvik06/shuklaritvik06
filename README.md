@@ -11,7 +11,7 @@
 
 <br/>
 <a href="https://twitter.com/ShuklaRitvik06" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/ritvikshukla/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-I am a freshman from Central University Of Rajasthan,India pursuing Computer Science Engineering. I love Open Source. Open source FTW!
+I am a sophomore from Central University Of Rajasthan,India pursuing Computer Science Engineering. I love Open Source. Open source FTW!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=includestdlibrary&label=Profile%20views&color=0e75b6&style=flat" alt="includestdlibrary" /> </p>
