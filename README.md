@@ -4,37 +4,77 @@
 
 <!-- About Me -->
 
-### ✨ About me
-
+ <details>
+  <summary>😄 <strong>About me</strong></summary>
+  <p>
+   <ul>
+    <li>
+     🌱 I’m currently exploring <strong>Open-Source</strong>
+     </li>
+    <li>
+     😄 Pronouns: <strong>He/Him</strong>
+     </li>
+     <li>
+     ✍️  In my free time, I love to write poems and short stories.
+     </li>
+     <li>
+     🎧 I love to hear Podcasts
+     </li>
+   </ul>  
 </p>
-
-- 🌱 I’m currently exploring **Open-Source**
-
-- 😄 Pronouns: **He/Him**
-
-- ✍️  In my free time, I love to write poems and short stories.
-
-- 🎧 I love to hear Podcasts
-
-<p>
+</details> 
 
 <!-- Stats  -->
- 
-### :chart_with_upwards_trend: Stats 
+ <details>
+  <summary>✨ <strong>Stats</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=shuklaritvik06&show_icons=true&theme=dracula">
+     </td>
+      <td>
+       <img src="http://github-readme-streak-stats.herokuapp.com?user=shuklaritvik06&theme=dracula">
+     </td>    
+    </tr>
+   </tbody>
+ </table> 
+</p>
+</details> 
 
-|![Ritvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuklaritvik06&show_icons=true&theme=dracula)|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shuklaritvik06&theme=dracula)
-|:----:|:-----:| 
- 
-<!-- Graph  -->
- 
-|<img src="https://activity-graph.herokuapp.com/graph?username=shuklaritvik06&bg_color=282A36&color=FF6E96&line=FF6E96&point=FF6E96&area=true&hide_border=true">|
-|:-:| 
-  
- 
-### 🤝 Connect
- 
-<!-- Socials  -->
- 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritvikshukla/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/shuklaritvik06)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ATjzhfbpq4)
+ <details>
+  <summary>📈 <strong>Contribution Graph</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <img src="https://activity-graph.herokuapp.com/graph?username=shuklaritvik06&bg_color=282A36&color=FF6E96&line=FF6E96&point=FF6E96&area=true&hide_border=true">
+     </td> 
+    </tr>
+   </tbody>
+ </table> 
+</p>
+</details> 
+
+ <details>
+  <summary>🤝 <strong>Connect</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <a href="https://www.linkedin.com/in/ritvikshukla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     </td> 
+          <td>
+       <a href="https://www.twitter.com/shuklaritvik06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+     </td> 
+          <td>
+       <a href="https://discord.gg/ATjzhfbpq4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+     </td> 
+    </tr>
+   </tbody>
+ </table> 
+</p>
+</details> 
