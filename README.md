@@ -57,9 +57,57 @@
  </table> 
 </p>
 </details> 
-
- <details>
-  <summary>🧠 <strong>Skills & Tools</strong></summary>
+<details>
+  <summary>🎨 <strong>UI/UX</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <img src="https://img.stackshare.io/service/33816/default_a2c4aca8d028b70609f4c57a30cb16cd664694a5.jpg">
+     </td>
+          <td>
+       <img src="https://www.saashub.com/images/app/service_logos/136/9pmm7afrofsn/large.png?1582365381">
+     </td>
+          <td>
+       <img src="https://www.saashub.com/images/app/service_logos/6/7467d519e1d8/large.png?1525414097">
+     </td>
+               <td>
+       <img src="https://www.saashub.com/images/app/service_logos/129/3kp0ui366xim/large.png?1580635927">
+     </td>
+               <td>
+       <img src="https://www.saashub.com/images/app/service_logos/182/yoa4v7l9kqwj/large.png?1626086480">
+     </td>
+                    <td>
+       <img src="https://myhq.s3.amazonaws.com/benefits/5ef0d2164658a32bc7917346.png">
+     </td>
+    </tr>
+   </tbody>
+ </table> 
+</p>
+  </details>
+  
+  <details>
+  <summary>🔙 <strong>Backend</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <img src="https://www.saashub.com/images/app/service_logos/6/075c1d1672bd/large.png?1526737225">
+     </td>
+          <td>
+       <img src="https://www.saashub.com/images/app/service_logos/6/865a9c61ed94/large.png?1576043387">
+     </td>
+          <td>
+       <img src="https://www.saashub.com/images/app/service_logos/46/3e4059620f44/large.png?1576042510">
+     </td>
+    </tr>
+   </tbody>
+ </table> 
+</p>
+  </details>
+  
   <details>
   <summary>🎨 <strong>UI/UX</strong></summary>
   <p>
@@ -89,8 +137,6 @@
  </table> 
 </p>
   </details>
-</details> 
-
 
  <details>
   <summary>🤝 <strong>Connect</strong></summary>
