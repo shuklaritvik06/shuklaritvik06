@@ -109,28 +109,19 @@
   </details>
   
   <details>
-  <summary>🎨 <strong>UI/UX</strong></summary>
+  <summary>🖌️ <strong>Frontend</strong></summary>
   <p>
   <table>
    <tbody>
     <tr>
      <td>
-       <img src="https://img.stackshare.io/service/33816/default_a2c4aca8d028b70609f4c57a30cb16cd664694a5.jpg">
+       <img src="https://www.saashub.com/images/app/service_logos/17/9c5f0be3ca54/large.png?1540064429">
      </td>
           <td>
-       <img src="https://www.saashub.com/images/app/service_logos/136/9pmm7afrofsn/large.png?1582365381">
+       <img src="https://www.saashub.com/images/app/service_logos/53/999f619e3add/large.png?1559601637">
      </td>
           <td>
-       <img src="https://www.saashub.com/images/app/service_logos/6/7467d519e1d8/large.png?1525414097">
-     </td>
-               <td>
-       <img src="https://www.saashub.com/images/app/service_logos/129/3kp0ui366xim/large.png?1580635927">
-     </td>
-               <td>
-       <img src="https://www.saashub.com/images/app/service_logos/182/yoa4v7l9kqwj/large.png?1626086480">
-     </td>
-                    <td>
-       <img src="https://myhq.s3.amazonaws.com/benefits/5ef0d2164658a32bc7917346.png">
+       <img src="https://pbs.twimg.com/profile_images/1512774369558372361/IegUPpg-_400x400.jpg">
      </td>
     </tr>
    </tbody>
