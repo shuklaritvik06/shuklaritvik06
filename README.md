@@ -121,7 +121,7 @@
        <img src="https://www.saashub.com/images/app/service_logos/53/999f619e3add/large.png?1559601637">
      </td>
           <td>
-       <img src="https://pbs.twimg.com/profile_images/1512774369558372361/IegUPpg-_400x400.jpg">
+       <img src="https://pbs.twimg.com/profile_images/1512774369558372361/IegUPpg-_200x200.jpg">
      </td>
     </tr>
    </tbody>
