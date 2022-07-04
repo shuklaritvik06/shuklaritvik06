@@ -128,6 +128,34 @@
  </table> 
 </p>
   </details>
+  
+<details>
+  <summary>📊 <strong>Databases</strong></summary>
+  <p>
+  <table>
+   <tbody>
+    <tr>
+     <td>
+       <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png">
+     </td>
+          <td>
+       <img src="https://www.saashub.com/images/app/service_logos/6/847e01fb2686/large.png?1526683210">
+     </td>
+               <td>
+       <img src="https://www.saashub.com/images/app/service_logos/13/9ab0162e3c59/large.png?1533922824">
+     </td>
+               <td>
+       <img src="https://www.saashub.com/images/app/service_logos/6/49a300d4120b/large.png?1526672440">
+     </td>
+                    <td>
+       <img src="https://www.saashub.com/images/app/service_logos/7/a1de0f3b3815/large.png?1527450730">
+     </td>
+    </tr>
+   </tbody>
+ </table> 
+</p>
+  </details>  
+  
 
  <details>
   <summary>🤝 <strong>Connect</strong></summary>
