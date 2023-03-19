@@ -50,7 +50,7 @@
    <tbody>
     <tr>
      <td>
-       <img src="https://activity-graph.herokuapp.com/graph?username=shuklaritvik06&bg_color=282A36&color=FF6E96&line=FF6E96&point=FF6E96&area=true&hide_border=true">
+       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shuklaritvik06&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
      </td> 
     </tr>
    </tbody>
