@@ -42,21 +42,6 @@
  </table> 
 </p>
 </details> 
-
- <details>
-  <summary>📈 <strong>Contribution Graph</strong></summary>
-  <p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shuklaritvik06&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
-     </td> 
-    </tr>
-   </tbody>
- </table> 
-</p>
-</details>
  <details>
   <summary>🤝 <strong>Connect</strong></summary>
   <p>
