@@ -4,8 +4,6 @@
 
 <!-- About Me -->
 
- <details>
-  <summary>😄 <strong>About me</strong></summary>
   <p>
    <ul>
     <li>
@@ -22,11 +20,8 @@
      </li>
    </ul>  
 </p>
-</details> 
 
 <!-- Stats  -->
- <details>
-  <summary>✨ <strong>Stats</strong></summary>
   <p>
   <table>
    <tbody>
@@ -41,9 +36,6 @@
    </tbody>
  </table> 
 </p>
-</details> 
- <details>
-  <summary>🤝 <strong>Connect</strong></summary>
   <p>
   <table>
    <tbody>
@@ -61,4 +53,3 @@
    </tbody>
  </table> 
 </p>
-</details> 
