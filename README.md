@@ -1,19 +1,3 @@
-<!-- Banner -->
-<!-- Stats  -->
-  <p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=shuklaritvik06&show_icons=true&theme=dracula">
-     </td>
-      <td>
-       <img src="http://github-readme-streak-stats.herokuapp.com?user=shuklaritvik06&theme=dracula">
-     </td>    
-    </tr>
-   </tbody>
- </table> 
-</p>
   <p>
   <table>
    <tbody>
