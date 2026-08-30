@@ -1,3 +1,6 @@
+Senior Full Stack Engineer, 4+ years shipping production systems that scale. I care about owning things end to end — architecture, infra, and the interface people actually touch.
+
+  
   <p>
   <table>
    <tbody>
